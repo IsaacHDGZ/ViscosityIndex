@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import math
 #Title
-st.title("Visosity Index Calulator")
+st.title("Viscosity Index Calulator")
 st.subheader("By José Isaac Hernández Gámez")
 #Dataframe
 source = pd.read_csv("data_source/VI_L_H_Values.csv")
